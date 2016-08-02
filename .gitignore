@@ -1,0 +1,6 @@
+bin
+*.suo
+obj
+*.pdf
+*.sqlite
+PDFs/Magic - Main Member List.pdf
